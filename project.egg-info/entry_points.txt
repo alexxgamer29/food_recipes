@@ -1,0 +1,2 @@
+[scrapy]
+settings = food_recipes.settings
